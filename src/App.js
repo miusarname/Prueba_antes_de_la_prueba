@@ -30,6 +30,7 @@ function fooBar() {
         
     })
     send(pedido)
+    pedido = {}
     return pedido
 };
 
